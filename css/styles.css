@@ -25,7 +25,7 @@ header {
 
 .nombre_boton_nav {
   text-decoration: none;
-  color: red; }
+  color: yellow; }
 
 .boton_logo {
   display: flex; }
@@ -132,11 +132,11 @@ ul {
   .grilla_home {
     grid-template-rows: 200px 3000px 300px;
     grid-template-columns: 100%;
-    grid-template-areas: "header" "main" "footer"; }
+    grid-template-areas: "header" "main" "footer"; }
   header {
     grid-template-rows: 70% 20%;
     grid-template-columns: 100%;
-    grid-template-areas: "logo"  "nav";
+    grid-template-areas: "logo"  "nav";
     align-content: center;
     justify-content: space-around;
     padding: 0%;
@@ -175,7 +175,7 @@ ul {
     background-color: black;
     grid-template-rows: 5% 10% 5% 10% 10% 10% 10% 10% 10%;
     grid-template-columns: 80%;
-    grid-template-areas: "homemain1"  "homemain2" "homemain3" "homemain4"  "homemain5"  "homemain6" "homemain7"  "homemain8"  "homemain9";
+    grid-template-areas: "homemain1"  "homemain2" "homemain3" "homemain4"  "homemain5"  "homemain6" "homemain7"  "homemain8"  "homemain9";
     align-content: space-evenly;
     justify-content: space-around; }
     .home_main img {
@@ -216,12 +216,12 @@ ul {
     grid-area: footer;
     grid-template-rows: 30% 10% 10% 10%;
     grid-template-columns: 90%;
-    grid-template-areas: "logo" "botones" "informcion" "redes";
+    grid-template-areas: "logo" "botones" "informcion" "redes";
     align-content: space-evenly;
     justify-content: space-evenly; }
     footer .logo_footer img {
-      height: 100%;
-      width: 100%;
+      height: 120%;
+      width: 120%;
       object-fit: contain; }
     footer .contener_lista_footer {
       height: 100%;
@@ -307,7 +307,7 @@ ul {
   .grilla_home {
     grid-template-rows: 200px 1500px 250px;
     grid-template-columns: 100%;
-    grid-template-areas: "header" "main" "footer"; }
+    grid-template-areas: "header" "main" "footer"; }
   header {
     grid-template-columns: 20% 70% 5%;
     grid-template-rows: 100%;
@@ -344,10 +344,10 @@ ul {
       font-size: 35px; }
       header nav .lista_nav:hover {
         border: solid 1px;
-        color: red; }
+        color: yellow; }
       header nav .lista_nav .nombre_boton_nav {
         text-decoration: none;
-        color: red; }
+        color: yellow; }
     header .carrito {
       display: flex;
       flex-direction: row;
@@ -358,7 +358,7 @@ ul {
     background-color: black;
     grid-template-columns: 30% 30% 30%;
     grid-template-rows: 25% 25% 25%;
-    grid-template-areas: "homemain1 homemain2 homemain3" "homemain4 homemain5 homemain6" "homemain7 homemain8 homemain9";
+    grid-template-areas: "homemain1 homemain2 homemain3" "homemain4 homemain5 homemain6" "homemain7 homemain8 homemain9";
     align-content: space-around;
     justify-content: space-evenly; }
     .home_main img {
@@ -397,9 +397,9 @@ ul {
       grid-area: homemain9; }
   footer {
     grid-area: footer;
-    grid-template-rows: 25% 10% 20% 20%;
+    grid-template-rows: 35% 10% 20% 20%;
     grid-template-columns: 90%;
-    grid-template-areas: "logo" "botones" "informcion" "redes";
+    grid-template-areas: "logo" "botones" "informcion" "redes";
     align-content: space-evenly;
     justify-content: space-evenly; }
     footer .logo_footer img {

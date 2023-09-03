@@ -19,7 +19,7 @@
   "homepage": "https://github.com/DrBatman18/JsDamianGrela#readme",
   "devDependencies": {
     "node-sass": "^8.0.0",
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.0.1"
   },
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -169,7 +169,7 @@
     "shebang-command": "^2.0.0",
     "shebang-regex": "^3.0.0",
     "signal-exit": "^3.0.7",
-    "simple-update-notifier": "^1.0.7",
+    "simple-update-notifier": "^2.0.0",
     "smart-buffer": "^4.2.0",
     "socks": "^2.7.1",
     "socks-proxy-agent": "^7.0.0",

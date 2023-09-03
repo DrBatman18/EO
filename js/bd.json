@@ -1,61 +1,38 @@
 [
+       
     {
         "id": 1, 
-        "nombre":"Bocadito de Salmon", 
-        "tipo": "ENTRADAS",
-        "img": "../images/Nuestros-Platos/Entradas/Bocadito-de-Salmon.jpg", 
-        "descripcion": "Salmón, aguacate, queso crema, cebolla verdeo, tempurizado y salsa de bocadito.",
-        "precio": 450
-    },   
+        "nombre": "Controles Sony", 
+        "tipo": "CONTROLES",
+        "img":"../images/Nuestros-Platos/Controles/controles-sony.jpg",
+        "descripcion":"Replicas Originales de la linea SONY",
+        "precio": 400
+    },
     {
-        "id": 2, 
-        "nombre": "Croquetas de Pescado", 
-        "tipo": "ENTRADAS",
-        "img":"../images/Nuestros-Platos/Entradas/Croquetas-de-.jpg",
-        "descripcion":"Croquetas de Pescado y salsa tártara",
-        "precio": 450
+        "id": 2,
+        "nombre":"Controles Samsung", 
+        "tipo": "CONTROLES",
+        "img": "../images/Nuestros-Platos/Controles/controles-samsung.jpg", 
+        "descripcion": "Replicas Originales de la linea SAMSUNG",
+        "precio": 400
     },
     {
         "id": 3, 
-        "nombre": "Croquetas de Cangrejo", 
-        "tipo": "ENTRADAS", 
-        "img":"../images/Nuestros-Platos/Entradas/Croquetas-de-Cangrejo.jpg",
-        "descripcion":"Croquetas de Cangrejo y salsa tártara",
-        "precio": 450
+        "nombre": "Controles Philips", 
+        "tipo": "CONTROLES", 
+        "img":"../images/Nuestros-Platos/Controles/controles-phillips.jpg",
+        "descripcion":"Replicas Originales de la linea PHILIPS",
+        "precio": 400
     },
-    {
+        {
         "id": 4, 
-        "nombre": "Ebi Fuji", 
-        "tipo": "ENTRADAS", 
-        "img":"../images/Nuestros-Platos/Entradas/Ebi-Fuji.jfif",
-        "descripcion":"Camarones Crispy con tope de salsa Fuji",
-        "precio":450
+        "nombre": "Controles LG", 
+        "tipo": "CONTROLES", 
+        "img":"../images/Nuestros-Platos/Controles/controles-lg.jpg",
+        "descripcion":"Replicas Originales de la linea LG",
+        "precio":400
     },
-    {
-        "id": 5, 
-        "nombre": "Fiesta de Langostinos", 
-        "tipo": "ENTRADAS", 
-        "img":"../images/Nuestros-Platos/Entradas/Fiesta-de-Langostinos.png",
-        "descripcion":"Langostinos tempurizados, empanizados, tempurizados de papas crunchy con salsas fuji, tártara y guacamole.",
-        "precio": 450
-    },
-    {
-        "id": 6, 
-        "nombre": "Wakame", 
-        "tipo": "ENTRADAS",
-        "img": "../images/Nuestros-Platos/Entradas/Wakame.jpg",
-        "descripcion": "Ensalada de algas marinadas", 
-        "precio": 450
-    },
-    {
-        "id": 7, 
-        "nombre": "Neptuno Salad", 
-        "tipo": "ENSALADAS",
-        "img": "../images/Nuestros-Platos/Ensaladas/Neptuno-Salad.png",
-        "descripcion":"Cesta de hoja de arroz, berro tempurizado, wakame, cangrejo desmenuzado, pescado blanco y atún a la plancha, cebolla verdeo, durazno, mango. Salsas: de anguila y picante con tope de salsas fuji y sésamo.",
-        "precio": 300
-    },
-    {
+      {
         "id": 8, 
         "nombre": "Poke Chicken Dragon", 
         "tipo": "POKE BOWLS",

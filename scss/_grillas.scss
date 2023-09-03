@@ -162,8 +162,8 @@
 
         .logo_footer{
             img{
-            height: 100%;
-            width: 100%;
+            height: 120%;
+            width: 120%;
             object-fit: contain;}
         }
 
@@ -336,7 +336,7 @@
                 
                 &:hover{
                     border: solid 1px;
-                    color: red;
+                    color: yellow;
                 }   
 
                 .nombre_boton_nav{            
@@ -420,7 +420,7 @@
 
     footer{
         grid-area: footer;
-        grid-template-rows: 25% 10% 20% 20%;
+        grid-template-rows: 35% 10% 20% 20%;
         grid-template-columns: 90%;          
         grid-template-areas:"logo"
                             "botones"
